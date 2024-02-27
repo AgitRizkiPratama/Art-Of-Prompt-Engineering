@@ -1,6 +1,6 @@
 # The Art Of Prompt Engineering
 
-## Author : CognitiveClass.AI
+## Author : @Sinanazeri
 
 Mantee Assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
