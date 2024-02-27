@@ -9,3 +9,5 @@ Mantee Assignment from IBM Advance AI @ Infinite Learning Course completion of T
 Name : Agit Rizki Pratama
 
 Program : IBM Advance AI
+
+Mentor : Kak Cindy Febriani
